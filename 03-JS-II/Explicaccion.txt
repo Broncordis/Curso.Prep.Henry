@@ -1,0 +1,19 @@
+Bucle for:
+los bucles for se usan para evaluar expreciones continuamente hasta que
+nos rerone el resultado deceado o se le de la intruccion para finalizar.
+
+Operadores logicos:
+
+&& : "Y", "AND" operador que devolvera true solamente si las expreciones comparadas
+son verdaderas de lo contrario devolvera false.
+Eje: ("Maria" && "Maria"); //true
+     ("Maria" && "Juan"); //false
+
+|| : "O", "OR" operador que devolvera true si las expreciones comparadas son
+verdaderas o falsas sin importar el orden.
+Eje: ("Maria" || "JUan"); //true
+     ("Maria" || "Maria"); //true
+
+! : "NO", "NOT" operador que devolvera un resultado contrario ante la exprecion dada.
+Eje: !(true); //false
+     !(false); //true
